@@ -2,7 +2,7 @@ const child = require("child_process");
 const fs = require("fs");
 
 const output = child
-  .execSync(`git log --format=%B%an%H----DELIMITER----`)
+  .execSync(`git log --format=%B%H----DELIMITER----`)
   .toString("utf-8");
 
 const commitsArray = output

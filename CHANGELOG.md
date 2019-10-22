@@ -1,6 +1,17 @@
 # Version 3 (2019-10-22)
 
 ## Features
+* Added index.js script ([Kay Ot](https://github.com/KayOtiq/changelog-generator/commit/Kay Otiqded716599a38249bd3c7752904ee22deb1ca6f74))
+
+## Chores
+* added dummy.txt file ([Kay Ot](https://github.com/KayOtiq/changelog-generator/commit/Kay Otiq0189f584864e4de87ae17149194d6a552b1bdc71))
+* Bumping to version 2 ([Kay Ot](https://github.com/KayOtiq/changelog-generator/commit/Kay Otiq274bd0577eaf570f31ca7bdcd47bd50ab21ee2d4))
+* changed the github path to my own ([Kay Ot](https://github.com/KayOtiq/changelog-generator/commit/Kay Otiqaa578d2aa357fd666cc231ea55cad747f90e7152))
+* Initial commit for the changelog generator ([Kay Ot](https://github.com/KayOtiq/changelog-generator/commit/Kay Otiqeb0843a7b4fcc1ade5c03fa00a88497b4746150d))
+
+# Version 3 (2019-10-22)
+
+## Features
 * Added index.js script ([ded716](https://github.com/KayOtiq/changelog-generator/commit/ded716599a38249bd3c7752904ee22deb1ca6f74))
 
 ## Chores
