@@ -30,7 +30,7 @@ commitsArray.forEach(commit => {
       `* ${commit.message.replace("feature: ", "")} ([${commit.sha.substring(
         0,
         6
-      )}](https://github.com/jackyef/changelog-generator/commit/${
+      )}](https://github.com/KayOtiq/changelog-generator/commit/${
         commit.sha
       }))\n`
     );
@@ -40,7 +40,7 @@ commitsArray.forEach(commit => {
       `* ${commit.message.replace("chore: ", "")} ([${commit.sha.substring(
         0,
         6
-      )}](https://github.com/jackyef/changelog-generator/commit/${
+      )}](https://github.com/KayOtiq/changelog-generator/commit/${
         commit.sha
       }))\n`
     );
