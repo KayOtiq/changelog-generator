@@ -1,3 +1,8 @@
+# Version 4 (2019-10-22)
+
+## Features
+* Implementing versioning ([cb8674](https://github.com/KayOtiq/changelog-generator/commit/cb8674d35b872b5952ffdb9a6e969a9ebc918987))
+
 # Version 3 (2019-10-22)
 
 ## Features
