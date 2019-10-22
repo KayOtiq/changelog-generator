@@ -1,3 +1,8 @@
+# Version 6 (2019-10-22)
+
+## Chores
+* checking to see if I fixed my messup ([8bdc3a](https://github.com/KayOtiq/changelog-generator/commit/8bdc3a08f4e356a7a65e49b7f1521b7fb17ad6a8))
+
 # Version 5 (2019-10-22)
 
 ## Features
